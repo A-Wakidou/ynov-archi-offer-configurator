@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<!-- Généré par Microsoft Visio, SVG Export logo-zenidocvocal.svg Page 1 -->
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:ev="http://www.w3.org/2001/xml-events"
+		xmlns:v="http://schemas.microsoft.com/visio/2003/SVGExtensions/" width="2.04663in" height="2.01895in"
+		viewBox="0 0 147.357 145.364" xml:space="preserve" color-interpolation-filters="sRGB" class="st5">
+	<v:documentProperties v:langID="1036" v:metric="true" v:viewMarkup="false">
+		<v:userDefs>
+			<v:ud v:nameU="msvConvertTheme"/>
+		</v:userDefs>
+	</v:documentProperties>
+
+	<style type="text/css">
+	<![CDATA[
+		.st1 {fill:#3f3f3f;stroke:#000000;stroke-linecap:round;stroke-linejoin:round;stroke-opacity:0;stroke-width:0.75}
+		.st2 {visibility:visible}
+		.st3 {fill:#000000;fill-opacity:0.4;filter:url(#filter_3.3333334922791);stroke:#000000;stroke-linecap:round;stroke-linejoin:round;stroke-opacity:0.4}
+		.st4 {fill:url(#grad3-9);stroke:#000000;stroke-linecap:round;stroke-linejoin:round;stroke-opacity:0;stroke-width:0.75}
+		.st5 {fill:none;fill-rule:evenodd;font-size:12px;overflow:visible;stroke-linecap:square;stroke-miterlimit:3}
+	]]>
+	</style>
+
+	<defs id="Patterns_And_Gradients">
+		<radialGradient id="grad3-9" cx="0.5" cy="0.5" r="0.73">
+			<stop offset="0" stop-color="#46aac4" stop-opacity="1"/>
+			<stop offset="1" stop-color="#205867" stop-opacity="1"/>
+		</radialGradient>
+	</defs>
+	<defs id="Filters">
+		<filter id="filter_3.3333334922791">
+			<feGaussianBlur stdDeviation="3.3333334922791"/>
+		</filter>
+	</defs>
+	<g v:mID="0" v:index="1" v:groupContext="foregroundPage">
+		<title>Page 1</title>
+		<v:pageProperties v:drawingScale="0.0393701" v:pageScale="0.0393701" v:drawingUnits="24" v:shadowOffsetX="8.50394"
+				v:shadowOffsetY="-8.50394"/>
+		<g id="shape368-1" v:mID="368" v:groupContext="shape" transform="translate(80.4319,-73.4392)">
+			<title>Feuille.368</title>
+			<v:textBlock v:margins="rect(4,4,4,4)" v:tabSpace="42.5197"/>
+			<rect x="0" y="78.8142" width="66.5502" height="66.5502" rx="22.6772" ry="22.6772" class="st1"/>
+		</g>
+		<g id="shape369-3" v:mID="369" v:groupContext="shape" transform="translate(5.375,-73.4392)">
+			<title>Feuille.369</title>
+			<v:textBlock v:margins="rect(4,4,4,4)" v:tabSpace="42.5197"/>
+			<g id="shadow369-4" v:groupContext="shadow" v:shadowOffsetX="7.2E-008" v:shadowOffsetY="0" v:shadowType="1"
+					transform="matrix(1,0,0,1,7.2E-008,0)" class="st2">
+				<rect x="0" y="78.8142" width="66.5502" height="66.5502" rx="22.6772" ry="22.6772" class="st3"/>
+			</g>
+			<rect x="0" y="78.8142" width="66.5502" height="66.5502" rx="22.6772" ry="22.6772" class="st4"/>
+		</g>
+		<g id="shape370-10" v:mID="370" v:groupContext="shape" transform="translate(5.50312,-0.375)">
+			<title>Feuille.370</title>
+			<v:textBlock v:margins="rect(4,4,4,4)" v:tabSpace="42.5197"/>
+			<rect x="0" y="78.8142" width="66.5502" height="66.5502" rx="22.6772" ry="22.6772" class="st1"/>
+		</g>
+		<g id="shape371-12" v:mID="371" v:groupContext="shape" transform="translate(1.61766,144.989) rotate(-90)">
+			<title>Feuille.371</title>
+			<v:textBlock v:margins="rect(4,4,4,4)" v:tabSpace="42.5197"/>
+			<rect x="0" y="78.8142" width="66.5502" height="66.5502" rx="22.6772" ry="22.6772" class="st1"/>
+		</g>
+	</g>
+</svg>
