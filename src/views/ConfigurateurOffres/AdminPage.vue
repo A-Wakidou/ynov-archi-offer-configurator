@@ -41,8 +41,8 @@
                     <thead>
                         <th>Identifiant</th>
                         <th>Nom du produit</th>
-                        <th>Prix original</th>
-                        <th>Prix avec promo</th>
+                        <th>Prix original (€)</th>
+                        <th>Prix avec promo (€)</th>
                         <th>Modifier</th>
                         <th>Supprimer</th>
                     </thead>
@@ -280,7 +280,7 @@ export default {
                     },
                     {
                         id:3,
-                        name: 'Produit 2',
+                        name: 'Produit 3',
                         price: 49.99
                     }
                 ],
@@ -364,7 +364,7 @@ export default {
         },
         onSubmitModalUpsell(e) {
             e.preventDefault()
-            console.log(this.modalPromosForm)
+            console.log(this.modalUpsellForm)
         },
         modalCrossSellOpen() {
             var modal = document.getElementById("modalCrossSell")
@@ -376,7 +376,7 @@ export default {
         },
         onSubmitModalCrossSell(e) {
             e.preventDefault()
-            console.log(this.modalPromosForm)
+            console.log(this.modalCrossSellForm)
         }
     },
     mounted () {

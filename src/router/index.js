@@ -6,11 +6,6 @@ import MentionsLegales from '../views/MentionsLegales.vue'
 import Inscription from '../views/ConfigurateurOffres/Inscription.vue'
 import Compte from '../views/ConfigurateurOffres/Compte.vue'
 import AdminPage from '../views/ConfigurateurOffres/AdminPage.vue'
-import ChangementMotDePasse from '../views/ConfigurateurOffres/ChangementMotDePasse.vue'
-import ChangementEmail from '../views/ConfigurateurOffres/ChangementEmail.vue'
-import SendMailForgottenPassword from '../views/ConfigurateurOffres/SendMailForgottenPassword.vue'
-import ForgottenPassword from '../views/ConfigurateurOffres/ForgottenPassword.vue'
-import ConfirmationsFormulairesCompte from '../views/ConfigurateurOffres/ConfirmationsFormulairesCompte.vue'
 
 Vue.use(VueRouter)
 
@@ -52,40 +47,6 @@ const routes = [
     //   if (to.name == 'AdminPage' && !sessionStorage.getItem('userId')) next({ name: 'Home' })
     //   next()
     // }
-  },
-  {
-    path: '/send-mail-forgotten-password',
-    name: 'SendMailForgottenPassword',
-    component: SendMailForgottenPassword,
-  },
-  {
-    path: '/forgotten-password/:token',
-    name: 'ForgottenPassword',
-    component: ForgottenPassword,
-  },
-  {
-    path: '/modifier-m',
-    name: 'ChangementMotDePasse',
-    component: ChangementMotDePasse,
-    // beforeEnter: (to,from,next) => {
-    //   if (to.name == 'ChangementMotDePasse' && !sessionStorage.getItem('userId')) next({ name: 'Home' })
-    //   next()
-    // }
-  },
-  {
-    path: '/modifier-e',
-    name: 'ChangementEmail',
-    component: ChangementEmail,
-    // beforeEnter: (to,from,next) => {
-    //   if (to.name == 'ChangementEmail' && !sessionStorage.getItem('userId')) next({ name: 'Home' })
-    //   next()
-    // }
-  },
-  {
-    path: '/confirmation-compte/:name',
-    name: 'ConfirmationsFormulairesCompte',
-    component: ConfirmationsFormulairesCompte,
-    props:true
   }
 ]
 

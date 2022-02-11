@@ -18,10 +18,6 @@ export default {
 </script>
 
 <style>
-
-  h1 {
-    margin-top: 10%;
-  }
   /*! normalize.css v8.0.1 | MIT License | github.com/necolas/normalize.css */
   /* Document
     ========================================================================== */
@@ -305,6 +301,10 @@ export default {
 
   * {
     box-sizing: border-box;
+  }
+
+  h1 {
+    margin-top: 5%;
   }
 
   p {
