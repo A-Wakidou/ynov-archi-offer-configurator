@@ -18,7 +18,7 @@
             </div>
             <button type="submit">Connexion</button>
             </form>
-            <router-link to="/compte">Swipe</router-link>  
+            <router-link to="/admin-page">Swipe</router-link>  
         </div>  
     </div>
 
